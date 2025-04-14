@@ -8,3 +8,7 @@ Key Objectives:
 2. Identify countries with the highest and lowest CO2 emissions and understand the reasons behind these trends.
 3. Provide insights into the implications of CO2 emissions for sustainable development.
 4. Foster global cooperation for effective mitigation strategies. Our research contributes to the broader understanding of CO2 emissions and underscores the importance of collective action towards environmental conservation and sustainable development.
+
+Link to the dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiY2FlZWFhZjQtNThlMy00MDQ2LTllMGMtNTA1YWQwZDhmYTkxIiwidCI6IjhkMjgxZDFkLTljNGQtNGJmNy1iMTZlLTAzMmQxNWRlOWY2YyIsImMiOjN9
